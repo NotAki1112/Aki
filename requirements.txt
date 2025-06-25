@@ -1,0 +1,9 @@
+pyrogram==2.0.106
+tgcrypto
+requests
+pytz
+supabase
+replicate
+pillow
+rembg
+onnxruntime
